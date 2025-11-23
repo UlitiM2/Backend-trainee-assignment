@@ -1,0 +1,9 @@
+*.exe
+*.test
+*.out
+.git
+.vscode
+.idea
+*.swp
+*.swo
+README.md
